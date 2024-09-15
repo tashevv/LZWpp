@@ -1,5 +1,5 @@
 # LZWpp
-A general purpose implementation of Lempel-Ziv-Welch compression algorithm for Windows. 
+A general purpose implementation of the Lempel-Ziv-Welch compression algorithm for Windows. 
 
 Originally compiled in Visual studio.
 
